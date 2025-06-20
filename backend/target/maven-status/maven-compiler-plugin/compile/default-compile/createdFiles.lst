@@ -1,5 +1,0 @@
-com/financetracker/FinanceTrackerApplication.class
-com/financetracker/model/User.class
-com/financetracker/controller/AuthController.class
-com/financetracker/model/Transaction.class
-com/financetracker/config/SecurityConfig.class
